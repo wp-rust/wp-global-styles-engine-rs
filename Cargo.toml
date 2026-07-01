@@ -4,6 +4,7 @@ version = "0.1.1"
 edition = "2024"
 description = "Rust port of WordPress/Elementor package wp-global-styles-engine-rs"
 license = "GPL-2.0"
+repository = "https://github.com/wp-rust/wp-global-styles-engine-rs"
 
 [dependencies]
 serde = { version = "1.0.228", features = ["derive"] }
